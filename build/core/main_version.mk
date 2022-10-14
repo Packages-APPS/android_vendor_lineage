@@ -13,7 +13,7 @@ ADDITIONAL_SYSTEM_PROPERTIES += \
     ro.lineagelegal.url=https://lineageos.org/legal
 
 ADDITIONAL_SYSTEM_PROPERTIES += \
-    ro.lineage.maintainer=$(LINEAGE_MAINTAINER)   
+    ro.montion.maintainer=$(MONTION_MAINTAINER)   
 
 # LineageOS Platform Display Version
 ADDITIONAL_SYSTEM_PROPERTIES += \
